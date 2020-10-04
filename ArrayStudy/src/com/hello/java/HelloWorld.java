@@ -1,4 +1,4 @@
-package com.array.java;
+package com.hello.java;
 
 public class HelloWorld {
 	public static void main (String args[]){
